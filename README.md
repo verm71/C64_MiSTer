@@ -2,7 +2,12 @@
 
 Based on FPGA64 by Peter Wendrich with heavy later modifications by different people.
 
+## verm71 Addendum
+
+Additional MIF for custom fonts in chargen ROM.  Done just for fun to see what it would look like.
+
 ## Features
+
 - C64 and C64GS modes.
 - C1541 read/write/format support in raw GCR mode (*.D64, *.G64)
 - C1581 read/write support (*.D81)
